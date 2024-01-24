@@ -1,3 +1,5 @@
+-- !!OLD!! This script will be replaced, it is outdated.
+
 -- This script is in ServerScriptService, inside doorMain
 -- modulescript
 
