@@ -1,4 +1,5 @@
--- This piece of code is in ServerScriptService
+-- This piece of code is in ServerScriptService 
+-- moduleScript
 
 local service = {}
 
