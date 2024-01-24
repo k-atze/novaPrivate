@@ -1,6 +1,7 @@
 -- THIS SCRIPT WILL BE REPLACED
 
 -- This script is in serverScriptService
+-- serverscript
 
 local services = {
 	promptService = game:GetService("ProximityPromptService"),
