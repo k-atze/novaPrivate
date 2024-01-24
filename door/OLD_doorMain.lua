@@ -1,4 +1,4 @@
--- THIS SCRIPT WILL BE REPLACED
+-- !!OLD!! This script will be replaced, it is outdated.
 
 -- This script is in serverScriptService
 -- serverscript
