@@ -1,4 +1,5 @@
 -- This piece of code is in the radio UI.
+-- localscript
 
 local services = {
 	replicatedStorage = game:GetService("ReplicatedStorage")
